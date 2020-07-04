@@ -4,3 +4,4 @@
 npm start [http://localhost:3000/]
 
 ### 截图
+![截图预览](https://api.wuliff.com/public/other/react-pdf.jpg)
